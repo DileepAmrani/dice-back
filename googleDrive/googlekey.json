@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosy-pivot-275117",
+  "private_key_id": "c40e92e6b11726d52b7c78394888bfcec9b24a2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcraSYzl8FZcVr\n9ZX8STJZ4OBM1Vh1GRCd2ZJuacAANOhjnFfqSuyGlLRENs/uwMFgHNPyZgPaRHJs\n4f+E3QgmXHyFe0udCl1Kr9WKcf0M0I1RGTzDiE/wMI+Vipc3tKkA1gYL0EKYqGAb\nAE6eyzJaEo2sThWqaULGz0NWi3owzJyL7ZLVrddo6QfNCuZ05s34ktGKqcD6dcQe\nYb52SXmunMF192Hkm+iRudLMtHNFiEPyFFlH+zbvVYCBrVr6FvyaRTG8uh/ThkW4\n7eXugIpbYTAn5JTPfJJMtd8WlhKGrQtfZdbKmtWwXmfLXtyE/KZDs+CcuNl+HGuq\nvOcrohh7AgMBAAECggEAFjYhsaNUDN+sI2LJ/rLhHKUeIeupjNQ0Va8SAhgjfC6u\noUHOpCw3UtmYTVwDPK1+hzcfBEFacMzSTJr6DpEH25RcoiRkCEvUr5wKJwSDjhev\naQdYZL9ELItd16KG+dfhO6PxGydM7E0LxC2AzSSGVgbvpwqHf29JDwaJXSa3IwgD\nITfzrsp6pw7UuFNd8S+vFpcde8HfmhVGs2o6upwBQtZMJ2kfFCk2WHWNORSE19Gi\nZo8JSyqWFlqwxHRYxbfiNGgwagfOwd1xn/gB00VEPciSdpIlqrN1lUhujQB44NHF\nuLlhTMMuz6hQByTafHDni0TUog9j1zxxVstfstbblQKBgQDabF4XsDyrfamm1+tQ\nGYlJlHVdES1FdzMeZaxr89kvGCQ9w1HWRzgDF9whL/kk95Jyds5wfmfrnNm0lKMK\nQ84IggJ9jMkoKZEalu6ejDyYJJqxo/FKGqJdOlkuWnHl+Mh0OpfIUMNDIW2xOkhl\no2GIj1J+6C50L1A/tiUshBKSxQKBgQC3ofLTRD43bSNFQupMtBcmfRBxXnpiECzR\nFOt4oWFF/GtJ66Oin7OKidPDxXRXshxQfbx/LlNPtHZyn7dGYdBS82MSLV9lZvyU\nr4B9cRr2uhNUvoEWab7qmH15npbGTDtqqZbxdlMnqYpRNd07JletjOA+QDPEwGP0\npd/GISeyPwKBgFr8cWWkwGEfg6BAqYFAYfQIp6sREK6zLNQovl5pwbrgb5ha2KhO\nGoMPWV9pwHspthOAchZiUZ/QQs/6asBH5nec0LTEBLd6OTu+S8A34rXt6ZK+HDEm\nTyROvf+VJYUK0VW5YqjLG8vHDQ6anLXaDTL5oP/EcDVt0Bv6IBofGi2RAoGAJBS5\nDpPRGbji/j/oo4ubJN/b9DqZF12QQMC4h6pF36d6OTsImvKAJ49vQX8xne2MLLCX\n8fFbQ0T1JQ6Gx1h+w125MKAjp1v18w0M1Rj9ME9dbwBDgvDiJ1wxA02K2Imv/wQ1\neVpDen6Qg+ZugqnE/n+4q+KXiWg3+6D/+AEZuKcCgYEAwX/ciACCZz9JUtOGTSOm\niW8XTTtbFSa0cTR1ENhujB5pSFYcDC6xC7tydxqeSwj29YULMbSXQ/TXaCcrE4qq\n7i/6OjAMqtaTi3ag1JyrcJhR5/OPwSqF4psFu0Dy4PzeUHMo3tleFWb2eDIEwMFC\nHSoJCkcPQO+cmM3vMamrQ2U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dice-project@rosy-pivot-275117.iam.gserviceaccount.com",
+  "client_id": "104743972398956100709",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dice-project%40rosy-pivot-275117.iam.gserviceaccount.com"
+}

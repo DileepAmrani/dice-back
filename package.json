@@ -1,0 +1,28 @@
+{
+  "name": "12tut",
+  "version": "1.0.0",
+  "description": "Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.23.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "googleapis": "^100.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.2",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

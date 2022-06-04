@@ -1,0 +1,73 @@
+openapi: 3.0.0
+
+# API information
+info:
+  title: Read Icons From Google Drive
+  description: Description
+  version: '1.0.0'
+  contact:
+    email:
+
+# Servers
+servers:
+  - url: http://localhost:4000
+    description: Development server1
+  - url: http://localhost:8080
+    description: Development server2
+  - url: http://192.168.1.158:4000
+    description: Development server Over the internent
+
+# Components
+components:
+  securitySchemes:
+    bearerAuth: # arbitrary name for the security scheme
+      type: http
+      scheme: bearer
+      in: header
+      bearerFormat: JWT
+
+  schemas:
+    serverHelthCheck:
+      type: object
+      properties:
+        message:
+          type: string
+          example: 'all good here!'
+
+    databaseHelthCheck:
+      type: object
+      properties:
+        status:
+          type: string
+          example: 'connected'
+
+paths:
+  /readIcons:
+    get:
+      summary: 'Server Health Check'
+      description: ''
+      tags:
+        - Main
+      responses:
+        200:
+          description: all good here!
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/serverHelthCheck'
+
+  /db-status:
+    get:
+      summary: Database Health Check.
+      description: ''
+      tags:
+        - Main
+      responses:
+        200:
+          description: Status Connected!
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/databaseHelthCheck'
+
+ 
